@@ -15,6 +15,11 @@ public class Main {
         step2.word = "Roses are red, violets are blue";
         System.out.println(step2.word);
 
+        Step step3 = new Step();
+         step3.name = "Josef";
+
+        System.out.println(step3.name + " " + step.name);
+
 
 
 
