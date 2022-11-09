@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Step {
+public class Step {
+
+    String name;
+    String word;
+
+
 }
